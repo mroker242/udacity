@@ -5,11 +5,15 @@
 }
 
 h1{
-	font-family: ‘Metrophobic’, Arial, serif; font-weight: 400; 
+	font-family: 'Open Sans', sans-serif;
+	font-weight:400;
+	font-size: 4.2em;
 }
 
 h2{
-  font-family: ‘Metrophobic’, Arial, serif; font-weight: 300; 
+  font-family: 'Open Sans', sans-serif;
+  font-weight:300;
+  font-size: 1.7em;
 }
 
 h4{
