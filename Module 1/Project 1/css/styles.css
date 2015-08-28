@@ -11,3 +11,8 @@ h1{
 h2{
   font-family: ‘Metrophobic’, Arial, serif; font-weight: 300; 
 }
+
+h4{
+	font-size: 1em;
+	font-weight: 200;
+}
