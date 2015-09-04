@@ -23,3 +23,17 @@ h4{
 .logo{
 	margin-top: 1.5em;
 }
+
+@media screen and (max-width:768px){
+	.col-sm-6 h1{
+		text-align:center;
+	}
+
+	.col-sm-6 h2{
+		text-align:center;
+	}
+
+	.logo{
+		display:none;
+	}
+}
