@@ -1,0 +1,48 @@
+/*
+
+Your styles go here!
+
+Hint! You'll probably want to start by styling:
+  * <body>
+  * <article>
+  * <h1>
+  * <img>
+
+I've left some boilerplate below for you.
+
+*/
+
+body {
+
+}
+
+article {
+	width:800px;
+	margin-left:auto;
+	margin-right: auto;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+
+img {
+	max-width:100%;
+}
+
+ul{
+	width:50em;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+ul li{
+	margin-left:5%;
+	margin-right:5%;
+	list-style-type: none;
+	display: inline;
+}
